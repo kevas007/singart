@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(250, 218, 181);
+}
+#im1{
+   /* background-image: url(../singa/ressource/ig.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;  
+*/    height: 100vh;
+    text-align: right;
+    background-color: rgb(250, 218, 181);
+    
+    font-family: Roboto;
+    color: black;
+} 
+
+#imt{
+    text-align: left;
+ color:rgb(0, 0, 0);
+}
+#imo{
+    text-align: center;
+ color: crimson;
+}
+#test1{
+    font-family: Roboto;
+    text-align: center;
+}
+#tes{
+    font-family: Roboto;
+    text-align: center;
+}
+#te{
+    font-family: Roboto;
+    text-align: center;
+    color: crimson;
+}
+#uli{
+    font-family: Roboto;
+    text-align: left;
+    
+}
+#tet{
+    font-family: Roboto;
+    text-align: center;
+
+}
+.ko{
+    text-align: center;
+    font-family: Roboto;
+}
+.ke{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kk{
+    width: 300px;
+clip-path: circle();
+}
